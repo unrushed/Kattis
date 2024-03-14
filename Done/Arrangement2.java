@@ -6,14 +6,15 @@ public class Arrangement2 {
         Scanner input = new Scanner(System.in);
         int numberOfRooms = input.nextInt(), numberOfPeople = input.nextInt();
 
-        for(int i = 0; i < numberOfRooms; i++){
+        for(int i = 0; i < numberOfRooms; i++) {
 
-            for(int p = 0; p < ; p++){
+            /*for(int p = 0; p < ; p++){
 
                 System.out.print("*");
                 
             }
             System.out.print("\n");
+        }*/
         }
 
     }

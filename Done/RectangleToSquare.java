@@ -1,3 +1,5 @@
+package Done;
+
 import java.util.Scanner;
 import java.util.Arrays;
 public class RectangleToSquare {
