@@ -1,3 +1,5 @@
+package Done;
+
 import java.util.Scanner;
 
 public class FourDiceRolls {
@@ -12,8 +14,15 @@ public class FourDiceRolls {
         }
 
         if(checkDuplicates(arr)){
-            System.out.print("0");
-            
+            System.out.print("0 ");
+            System.out.printf("%.0f", Math.pow(6,(4-numberOfDice)));
+        }else{
+            int z = 6 - numberOfDice;
+            int product = z;
+            for(int x = 0; x < 4 - numberOfDice - 1; x++) {
+                product *= --z;
+            }
+            System.out.printf("%d %.0f",product, (Math.pow(6,(4-numberOfDice)) - product));
         }
     }
 
