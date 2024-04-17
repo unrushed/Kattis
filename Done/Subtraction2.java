@@ -1,6 +1,7 @@
+package Done;
 import java.util.Scanner;
 
-public class Subtraction {
+public class Subtraction2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
