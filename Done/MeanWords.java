@@ -14,7 +14,6 @@ public class MeanWords {
             arr[i] = input.nextLine();
             if(arr[i].length() > largestSize) largestSize = arr[i].length();
         }
-
         int sum = 0;
         int numberOfWordsEffected = 0;
 

@@ -15,7 +15,6 @@ public class MagicTrick {
         for (int i = 0; i < in.length(); i++) {
             in2.add(in.charAt(i));
         }
-
         Collections.sort(in2);
 
         boolean test = false;
