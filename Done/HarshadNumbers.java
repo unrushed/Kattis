@@ -1,6 +1,6 @@
 package Kattis;
 import java.util.Scanner;
-public class HarshadNumbers {
+public class  HarshadNumbers {
    public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 

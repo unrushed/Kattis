@@ -19,7 +19,7 @@ public class EnenyMeeny {
         for (int i = 0; i < numberOfPeople; i++) {
             list.add(input.nextLine());
         }
-        //System.out.println(list);
+
         int y = 0; // index
         boolean test = true; // true = team One
         while(!list.isEmpty()){
