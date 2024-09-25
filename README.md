@@ -24,8 +24,17 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 | [A Different Problem](https://github.com/unrushed/Kattis/blob/main/Done/Subtraction.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/different) |
 | [A New Alphabet](https://github.com/unrushed/Kattis/blob/main/Done/NewLanguage.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anewalphabet) |
 | [A Real Challenge](https://github.com/unrushed/Kattis/blob/main/Done/Field.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/areal) |
-
-
+| [A Shortcut to What?](https://github.com/unrushed/Kattis/blob/main/Done/SimpleCalcuation.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/shortcuttowhat) |
+| [A Towering Problem](https://github.com/unrushed/Kattis/blob/main/Done/Towering.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/towering) |
+| [ABC](https://github.com/unrushed/Kattis/blob/main/Done/Reorder.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/abc) |
+| [ASCII Kassi 2](https://github.com/unrushed/Kattis/blob/main/Done/ASCIIKassi2.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/asciikassi2) |
+| [ASCII kassi]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/asciikassi) |
+| [Aaah!]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
+| [Above Average](https://github.com/unrushed/Kattis/blob/main/Done/AboveAverage.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aboveaverage) |
+| [Add Two Numbers]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers) |
+| []() | [![:cat:](https://open.kattis.com/favicon)]() |
+| []() | [![:cat:](https://open.kattis.com/favicon)]() |
+| []() | [![:cat:](https://open.kattis.com/favicon)]() |
 
 | C's Problem | :link: |
 |       -       |       -       |
