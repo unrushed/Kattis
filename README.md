@@ -15,7 +15,7 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 ## Problems
 | Problem | :link: |
 |       -       |       -       |
-|       [##C]       |       -       |
+|       **C**       |       -       |
 | [Coffee Cup Combo](https://github.com/unrushed/Kattis/blob/main/Done/Coffee.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/coffeecupcombo) |
 | [Falling Snow](https://github.com/unrushed/Kattis/blob/main/Done/Snow.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fallingsnow2) |
 | [ICPC Awards](https://github.com/unrushed/Kattis/blob/main/Done/ICPCAwards.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/icpcawards) |
