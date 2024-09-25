@@ -15,10 +15,10 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 ## Problems
 | Problem | :link: |
 |       -       |       -       |
-| [Coffee Cup Combo](https://github.com/unrushed/Kattis/blob/main/Done/Coffee.java) | [![:cat:](https://open.kattis.com/problems/coffeecupcombo) |
-| [ICPC Awards](https://github.com/unrushed/Kattis/blob/main/Done/ICPCAwards.java) | [![:cat:](https://open.kattis.com/problems/icpcawards) |
-| [License to Launch](https://github.com/unrushed/Kattis/blob/main/Done/LicenseToLaunch.java) | [![:cat:](https://open.kattis.com/problems/licensetolaunch) |
-| [One Chicken Per Person!](https://github.com/unrushed/Kattis/blob/main/Done/OnceChickenPerPerson.java) | [![:cat:]([https://open.kattis.com/problems/icpcawards](https://open.kattis.com/problems/onechicken)) |
+| [Coffee Cup Combo](https://github.com/unrushed/Kattis/blob/main/Done/Coffee.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/coffeecupcombo) |
+| [ICPC Awards](https://github.com/unrushed/Kattis/blob/main/Done/ICPCAwards.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/icpcawards) |
+| [License to Launch](https://github.com/unrushed/Kattis/blob/main/Done/LicenseToLaunch.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/licensetolaunch) |
+| [One Chicken Per Person!](https://github.com/unrushed/Kattis/blob/main/Done/OnceChickenPerPerson.java) | [![:cat:](https://open.kattis.com/favicon)]((https://open.kattis.com/problems/onechicken)) |
 | [The Last Problem](https://github.com/unrushed/Kattis/blob/main/Done/TheLastProblem.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/thelastproblem) |
 | [Turn It Up!](https://github.com/unrushed/Kattis/blob/main/Done/TurnItUp.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skruop) |
-| [Zoom](https://github.com/unrushed/Kattis/blob/main/Done/Zoom.java) | [![:cat:](https://open.kattis.com/problems/zoom) |
+| [Zoom](https://github.com/unrushed/Kattis/blob/main/Done/Zoom.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zoom) |
