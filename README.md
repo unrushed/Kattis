@@ -19,6 +19,7 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 | [ICPC Awards](https://github.com/unrushed/Kattis/blob/main/Done/ICPCAwards.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/icpcawards) |
 | [License to Launch](https://github.com/unrushed/Kattis/blob/main/Done/LicenseToLaunch.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/licensetolaunch) |
 | [One Chicken Per Person!](https://github.com/unrushed/Kattis/blob/main/Done/OnceChickenPerPerson.java) | [![:cat:](https://open.kattis.com/favicon)]((https://open.kattis.com/problems/onechicken)) |
+| [Plants vs Bad Guys](https://github.com/unrushed/Kattis/blob/main/Done/PlantsVSZombies.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pvbg)) |
 | [The Last Problem](https://github.com/unrushed/Kattis/blob/main/Done/TheLastProblem.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/thelastproblem) |
 | [Turn It Up!](https://github.com/unrushed/Kattis/blob/main/Done/TurnItUp.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skruop) |
 | [Zoom](https://github.com/unrushed/Kattis/blob/main/Done/Zoom.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zoom) |
