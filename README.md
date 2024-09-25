@@ -13,10 +13,17 @@ Enjoy.
 PS: no one gets access to this repo, so enjoy & These are made in JAVA unless otherwise stated :)
 
 ## Problems
-| Problem | :link: |
+| Symbol & Number's Problem | :link: |
 |       -       |       -       |
 | [(More) Multiplication](https://github.com/unrushed/Kattis/blob/main/Done/MessyMultiply.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/multiplication) |
 | [99 Problems](https://github.com/unrushed/Kattis/blob/main/Done/Price.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/99problems) |
+
+| A's Problem | :link: |
+|       -       |       -       |
+| [A Cappella Recording](https://github.com/unrushed/Kattis/blob/main/Done/ACappella.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/acappellarecording) |
+
+
+
 
 
 | [Character Development](https://github.com/unrushed/Kattis/blob/main/Done/Relationships.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/character) |
