@@ -1,4 +1,4 @@
-package Kattis;
+package Done;
 import java.util.Scanner;
 public class CardGameCalculator {
     public static void main(String[] args){
