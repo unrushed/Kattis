@@ -1,4 +1,4 @@
-package Kattis;
+package Done;
 import java.util.Scanner;
 public class aaah{
     public static void main(String[] args){

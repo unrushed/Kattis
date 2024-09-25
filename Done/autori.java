@@ -1,6 +1,6 @@
-package Kattis;
+package Done;
 import java.util.Scanner;
-public class autori {
+public class Autori {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         String fullname, initials = "";
