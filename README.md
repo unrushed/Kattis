@@ -40,8 +40,13 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 | [Arm Coordination](https://github.com/unrushed/Kattis/blob/main/Done/BoxACircle2.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armcoordination) |
 | [Arrangement]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/upprodun) |
 | [Attendance -- Uses Kattio]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/attendance2) |
-| [Autori]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
-| []() | [![:cat:](https://open.kattis.com/favicon)]() |
+| [Autori](https://github.com/unrushed/Kattis/blob/main/Done/autori.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
+| [Average Character](https://github.com/unrushed/Kattis/blob/main/Done/ASCIIAverage.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/averagecharacter) |
+| [Avion](https://github.com/unrushed/Kattis/blob/main/Done/CIAFinder.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/avion) |
+
+| B's Problem | :link: |
+|       -       |       -       |
+| [Baby Bites](https://github.com/unrushed/Kattis/blob/main/Done/MouthFull.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/babybites) |
 | []() | [![:cat:](https://open.kattis.com/favicon)]() |
 
 | C's Problem | :link: |
