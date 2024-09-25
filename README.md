@@ -15,6 +15,10 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 ## Problems
 | Problem | :link: |
 |       -       |       -       |
+| [(More) Multiplication](https://github.com/unrushed/Kattis/blob/main/Done/MessyMultiply.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/multiplication) |
+| [99 Problems](https://github.com/unrushed/Kattis/blob/main/Done/Price.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/99problems) |
+
+
 | [Character Development](https://github.com/unrushed/Kattis/blob/main/Done/Relationships.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/character) |
 | [Coffee Cup Combo](https://github.com/unrushed/Kattis/blob/main/Done/Coffee.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/coffeecupcombo) |
 | [Cryptographer's Conundrum](https://github.com/unrushed/Kattis/blob/main/Done/Per.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/conundrum) |
