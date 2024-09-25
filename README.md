@@ -32,7 +32,15 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 | [Aaah!]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
 | [Above Average](https://github.com/unrushed/Kattis/blob/main/Done/AboveAverage.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aboveaverage) |
 | [Add Two Numbers]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers) |
-| []() | [![:cat:](https://open.kattis.com/favicon)]() |
+| [Adding Trouble](https://github.com/unrushed/Kattis/blob/main/Done/AddingTrouble.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addingtrouble) |
+| [Alien Math](https://github.com/unrushed/Kattis/blob/main/Done/AlienMath.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alienmath) |
+| [Alphabet Spam](https://github.com/unrushed/Kattis/blob/main/Done/SpamDetection.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam) |
+| [Amerískur vinnustaður]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ameriskur) |
+| [Apaxiaaaaaaaaaaaans!](https://github.com/unrushed/Kattis/blob/main/Done/StickyKeys.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
+| [Arm Coordination](https://github.com/unrushed/Kattis/blob/main/Done/BoxACircle2.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armcoordination) |
+| [Arrangement]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/upprodun) |
+| [Attendance -- Uses Kattio]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/attendance2) |
+| [Autori]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
 | []() | [![:cat:](https://open.kattis.com/favicon)]() |
 | []() | [![:cat:](https://open.kattis.com/favicon)]() |
 
