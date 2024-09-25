@@ -10,7 +10,7 @@ Also, remember to remove the package statement.
 
 Enjoy.
 
-PS: no one gets access to this repo, so enjoy & These are made in JAVA unless other wise stated :)
+PS: no one gets access to this repo, so enjoy & These are made in JAVA unless otherwise stated :)
 
 ## Problems
 | Problem | :link: |
