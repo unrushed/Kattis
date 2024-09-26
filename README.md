@@ -28,14 +28,14 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 | [A Towering Problem](https://github.com/unrushed/Kattis/blob/main/Done/Towering.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/towering) |
 | [ABC](https://github.com/unrushed/Kattis/blob/main/Done/Reorder.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/abc) |
 | [ASCII Kassi 2](https://github.com/unrushed/Kattis/blob/main/Done/ASCIIKassi2.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/asciikassi2) |
-| [ASCII kassi]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/asciikassi) |
-| [Aaah!]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
+| [ASCII kassi](https://github.com/unrushed/Kattis/blob/main/Done/UnrushedSquare.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/asciikassi) |
+| [Aaah!](https://github.com/unrushed/Kattis/blob/main/Done/aaah.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
 | [Above Average](https://github.com/unrushed/Kattis/blob/main/Done/AboveAverage.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aboveaverage) |
-| [Add Two Numbers]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers) |
+| [Add Two Numbers](https://github.com/unrushed/Kattis/blob/main/Done/AddTwoNumbers.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers) |
 | [Adding Trouble](https://github.com/unrushed/Kattis/blob/main/Done/AddingTrouble.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addingtrouble) |
 | [Alien Math](https://github.com/unrushed/Kattis/blob/main/Done/AlienMath.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alienmath) |
 | [Alphabet Spam](https://github.com/unrushed/Kattis/blob/main/Done/SpamDetection.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam) |
-| [Amerískur vinnustaður]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ameriskur) |
+| [Amerískur vinnustaður](https://github.com/unrushed/Kattis/blob/main/Done/ameriskur.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ameriskur) |
 | [Apaxiaaaaaaaaaaaans!](https://github.com/unrushed/Kattis/blob/main/Done/StickyKeys.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
 | [Arm Coordination](https://github.com/unrushed/Kattis/blob/main/Done/BoxACircle2.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armcoordination) |
 | [Arrangement]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/upprodun) |
