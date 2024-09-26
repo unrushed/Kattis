@@ -38,8 +38,8 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 | [Amerískur vinnustaður](https://github.com/unrushed/Kattis/blob/main/Done/ameriskur.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ameriskur) |
 | [Apaxiaaaaaaaaaaaans!](https://github.com/unrushed/Kattis/blob/main/Done/StickyKeys.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
 | [Arm Coordination](https://github.com/unrushed/Kattis/blob/main/Done/BoxACircle2.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armcoordination) |
-| [Arrangement]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/upprodun) |
-| [Attendance -- Uses Kattio]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/attendance2) |
+| [Arrangement](https://github.com/unrushed/Kattis/blob/main/Done/Marcelektro.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/upprodun) |
+| [Attendance -- Uses Kattio](https://github.com/unrushed/Kattis/blob/main/Done/Attendence.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/attendance2) |
 | [Autori](https://github.com/unrushed/Kattis/blob/main/Done/autori.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
 | [Average Character](https://github.com/unrushed/Kattis/blob/main/Done/ASCIIAverage.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/averagecharacter) |
 | [Avion](https://github.com/unrushed/Kattis/blob/main/Done/CIAFinder.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/avion) |
@@ -47,7 +47,7 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 | B's Problem | :link: |
 |       -       |       -       |
 | [Baby Bites](https://github.com/unrushed/Kattis/blob/main/Done/MouthFull.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/babybites) |
-| [Baby Panda]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/babypanda) |
+| [Baby Panda](https://github.com/unrushed/Kattis/blob/main/Done/Sneezes.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/babypanda) |
 | [Bannorð](https://github.com/unrushed/Kattis/blob/main/Done/AllowedLetters.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bannord) |
 | [Barcelona]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/barcelona) |
 | [Basketball One-on-One](https://github.com/unrushed/Kattis/blob/main/Done/Basketball.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/basketballoneonone) |
