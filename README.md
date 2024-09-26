@@ -55,7 +55,7 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 | [Beat the Spread!]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/beatspread) |
 | [Beehives -- Uses Kattio]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/beehives) |
 | [Bela](https://github.com/unrushed/Kattis/blob/main/Done/CardGameCalculator.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bela) |
-| [BergMál]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bergmal) |
+| [BergMál](https://github.com/unrushed/Kattis/blob/main/Done/Bergmal.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bergmal) |
 | [Besta gjöfin](https://github.com/unrushed/Kattis/blob/main/Done/Presents.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bestagjofin) |
 | [Betting](https://github.com/unrushed/Kattis/blob/main/Done/Betting.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/betting) |
 | [Bijele](https://github.com/unrushed/Kattis/blob/main/Done/CorrectNumberOfPieces.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bijele) |
