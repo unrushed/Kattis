@@ -1,6 +1,6 @@
 Hello, I have placed my solutions to Kattis problems in the following repository. I don't follow any naming standard or CS standard.
 
-Also, Kattis knows whether you steal my work, so please take inspiration, but work on the problem yourself.
+Also, Kattis knows when you steal my work, so please take inspiration, and work on the problem yourself.
 
 The linked text is to my repository & the left is the link to the problem on kattis.
 
