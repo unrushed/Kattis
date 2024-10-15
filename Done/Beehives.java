@@ -63,7 +63,7 @@ class Point {
     
 }
 
-class Kattio extends PrintWriter {
+/*class Kattio extends PrintWriter {
     public Kattio(InputStream i) {
         super(new BufferedOutputStream(System.out));
         r = new BufferedReader(new InputStreamReader(i));
@@ -119,4 +119,4 @@ class Kattio extends PrintWriter {
         token = null;
         return ans;
     }
-}
+}*/
