@@ -1,6 +1,6 @@
 Hello, I have placed my solutions to Kattis problems in the following repository. I don't follow any naming standard or CS standard.
 
-Also, Kattis knows whether you steal my work, so please take inspiration, but work on the problem yourself.
+Also, Kattis knows when you steal my work, so please take inspiration, and work on the problem yourself.
 
 The linked text is to my repository & the left is the link to the problem on kattis.
 
@@ -38,8 +38,8 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 | [Amerískur vinnustaður](https://github.com/unrushed/Kattis/blob/main/Done/ameriskur.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ameriskur) |
 | [Apaxiaaaaaaaaaaaans!](https://github.com/unrushed/Kattis/blob/main/Done/StickyKeys.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
 | [Arm Coordination](https://github.com/unrushed/Kattis/blob/main/Done/BoxACircle2.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armcoordination) |
-| [Arrangement]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/upprodun) |
-| [Attendance -- Uses Kattio]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/attendance2) |
+| [Arrangement](https://github.com/unrushed/Kattis/blob/main/Done/Marcelektro.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/upprodun) |
+| [Attendance -- Uses Kattio](https://github.com/unrushed/Kattis/blob/main/Done/Attendence.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/attendance2) |
 | [Autori](https://github.com/unrushed/Kattis/blob/main/Done/autori.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
 | [Average Character](https://github.com/unrushed/Kattis/blob/main/Done/ASCIIAverage.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/averagecharacter) |
 | [Avion](https://github.com/unrushed/Kattis/blob/main/Done/CIAFinder.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/avion) |
@@ -47,7 +47,7 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 | B's Problem | :link: |
 |       -       |       -       |
 | [Baby Bites](https://github.com/unrushed/Kattis/blob/main/Done/MouthFull.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/babybites) |
-| [Baby Panda]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/babypanda) |
+| [Baby Panda](https://github.com/unrushed/Kattis/blob/main/Done/Sneezes.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/babypanda) |
 | [Bannorð](https://github.com/unrushed/Kattis/blob/main/Done/AllowedLetters.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bannord) |
 | [Barcelona]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/barcelona) |
 | [Basketball One-on-One](https://github.com/unrushed/Kattis/blob/main/Done/Basketball.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/basketballoneonone) |
@@ -55,7 +55,7 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 | [Beat the Spread!]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/beatspread) |
 | [Beehives -- Uses Kattio]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/beehives) |
 | [Bela](https://github.com/unrushed/Kattis/blob/main/Done/CardGameCalculator.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bela) |
-| [BergMál]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bergmal) |
+| [BergMál](https://github.com/unrushed/Kattis/blob/main/Done/Bergmal.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bergmal) |
 | [Besta gjöfin](https://github.com/unrushed/Kattis/blob/main/Done/Presents.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bestagjofin) |
 | [Betting](https://github.com/unrushed/Kattis/blob/main/Done/Betting.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/betting) |
 | [Bijele](https://github.com/unrushed/Kattis/blob/main/Done/CorrectNumberOfPieces.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bijele) |
