@@ -15,11 +15,13 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 ## Problems
 | Symbol & Number's Problem | :link: |
 |       -       |       -       |
+| [Link to File]() | [Link to Problem]() |
 | [(More) Multiplication](https://github.com/unrushed/Kattis/blob/main/Done/MessyMultiply.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/multiplication) |
 | [99 Problems](https://github.com/unrushed/Kattis/blob/main/Done/Price.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/99problems) |
 
 | A's Problem | :link: |
 |       -       |       -       |
+| [Link to File]() | [Link to Problem]() |
 | [A Cappella Recording](https://github.com/unrushed/Kattis/blob/main/Done/ACappella.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/acappellarecording) |
 | [A Different Problem](https://github.com/unrushed/Kattis/blob/main/Done/Subtraction.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/different) |
 | [A New Alphabet](https://github.com/unrushed/Kattis/blob/main/Done/NewLanguage.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anewalphabet) |
@@ -46,6 +48,7 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 
 | B's Problem | :link: |
 |       -       |       -       |
+| [Link to File]() | [Link to Problem]() |
 | [Baby Bites](https://github.com/unrushed/Kattis/blob/main/Done/MouthFull.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/babybites) |
 | [Baby Panda](https://github.com/unrushed/Kattis/blob/main/Done/Sneezes.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/babypanda) |
 | [Bannorð](https://github.com/unrushed/Kattis/blob/main/Done/AllowedLetters.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bannord) |
@@ -75,49 +78,78 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 
 | C's Problem | :link: |
 |       -       |       -       |
+| [Link to File]() | [Link to Problem]() |
 | [CPR Number](https://github.com/unrushed/Kattis/blob/main/Done/CPR.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cprnummer) |
 | [Call for Problems](https://github.com/unrushed/Kattis/blob/main/Done/CallForProblems.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/callforproblems) |
 | [Canadians, eh?](https://github.com/unrushed/Kattis/blob/main/Done/CanadianDetector.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/canadianseh) |
 | [Candy Store](https://github.com/unrushed/Kattis/blob/main/Done/CandyStore.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/candystore) |
-| []() | [![:cat:](https://open.kattis.com/favicon)]() |
-| []() | [![:cat:](https://open.kattis.com/favicon)]() |
+| [Cetvrta](https://github.com/unrushed/Kattis/blob/main/Done/pizzaA.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cetvrta) |
+| [Champernowne Verification](https://github.com/unrushed/Kattis/blob/main/Done/Champerown.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/champernowneverification) |
+| [Chanukah Challenge](https://github.com/unrushed/Kattis/blob/main/Done/Chanukah.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/chanukah) |
 | [Character Development](https://github.com/unrushed/Kattis/blob/main/Done/Relationships.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/character) |
+| [Chugging]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/chugging) |
+| [Cinema Crowds 2](https://github.com/unrushed/Kattis/blob/main/Done/CinimaCrowds.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cinema) |
+| [Class Field Trip -- Uses Kattio](https://github.com/unrushed/Kattis/blob/main/Done/SortingLetters.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/classfieldtrip) |
 | [Coffee Cup Combo](https://github.com/unrushed/Kattis/blob/main/Done/Coffee.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/coffeecupcombo) |
+| [Cold-puter Science](https://github.com/unrushed/Kattis/blob/main/Done/TemperaturesLessThenZero.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cold) |
+| [Contest Struggles](https://github.com/unrushed/Kattis/blob/main/Done/ContestStruggles.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/conteststruggles) |
+| [Cookie Cutters]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cookiecutter) |
+| [Cookies](https://github.com/unrushed/Kattis/blob/main/Done/kakor.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/kakor) |
+| [Cooking Water](https://github.com/unrushed/Kattis/blob/main/Done/CookingWater2.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cookingwater) |
+| [Cosmic Path Optimization]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cosmicpathoptimization) |
+| [Count the Vowels](https://github.com/unrushed/Kattis/blob/main/Done/CountTheVowels.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/countthevowels) |
 | [Cryptographer's Conundrum](https://github.com/unrushed/Kattis/blob/main/Done/Per.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/conundrum) |
+| [Cut the Negativity](https://github.com/unrushed/Kattis/blob/main/Done/CutTheNegativity.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cutthenegativity) |
+
+| D's Problem | :link: |
+|       -       |       -       |
+| [Link to File]() | [Link to Problem]() |
+| [D Fyrir Dreki](https://github.com/unrushed/Kattis/blob/main/Done/HowManyRoots.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/dfyrirdreki) |
+| [Dagatal](https://github.com/unrushed/Kattis/blob/main/Done/DaysInEachMonth.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/dagatal) |
+| [Damaged Equation](https://github.com/unrushed/Kattis/blob/main/Done/DamagedEquations.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/damagedequation) |
+| [Death Knight Hero]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/deathknight) |
 | []() | [![:cat:](https://open.kattis.com/favicon)]() |
 
 
 | F's Problem | :link: |
 |       -       |       -       |
+| [Link to File]() | [Link to Problem]() |
 | [Falling Snow](https://github.com/unrushed/Kattis/blob/main/Done/Snow.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fallingsnow2) |
 
 | I's Problem | :link: |
 |       -       |       -       |
+| [Link to File]() | [Link to Problem]() |
 | [ICPC Awards](https://github.com/unrushed/Kattis/blob/main/Done/ICPCAwards.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/icpcawards) |
 
 | L's Problem | :link: |
 |       -       |       -       |
+| [Link to File]() | [Link to Problem]() |
 | [License to Launch](https://github.com/unrushed/Kattis/blob/main/Done/LicenseToLaunch.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/licensetolaunch) |
 
 | O's Problem | :link: |
 |       -       |       -       |
+| [Link to File]() | [Link to Problem]() |
 | [One Chicken Per Person!](https://github.com/unrushed/Kattis/blob/main/Done/OnceChickenPerPerson.java) | [![:cat:](https://open.kattis.com/favicon)]((https://open.kattis.com/problems/onechicken)) |
 
 | P's Problem | :link: |
 |       -       |       -       |
+| [Link to File]() | [Link to Problem]() |
 | [Plants vs Bad Guys](https://github.com/unrushed/Kattis/blob/main/Done/PlantsVSZombies.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pvbg) |
 
 | S's Problem | :link: |
 |       -       |       -       |
+| [Link to File]() | [Link to Problem]() |
 | [Simon Says](https://github.com/unrushed/Kattis/blob/main/Done/SimonSays.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simonsays) |
 
 | T's Problem | :link: |
 |       -       |       -       |
+| [Link to File]() | [Link to Problem]() |
 | [The Last Problem](https://github.com/unrushed/Kattis/blob/main/Done/TheLastProblem.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/thelastproblem) |
 | [Trik](https://github.com/unrushed/Kattis/blob/main/Done/CupsGame.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trik) |
 | [Turn It Up!](https://github.com/unrushed/Kattis/blob/main/Done/TurnItUp.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skruop) |
 
 | Z's Problem | :link: |
 |       -       |       -       |
+| [Link to File]() | [Link to Problem]() |
 | [Zamka](https://github.com/unrushed/Kattis/blob/main/Done/Zamka.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zamka) |
 | [Zoom](https://github.com/unrushed/Kattis/blob/main/Done/Zoom.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zoom) |
