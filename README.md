@@ -58,7 +58,9 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 | [BergMál](https://github.com/unrushed/Kattis/blob/main/Done/Bergmal.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bergmal) |
 | [Besta gjöfin](https://github.com/unrushed/Kattis/blob/main/Done/Presents.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bestagjofin) |
 | [Betting](https://github.com/unrushed/Kattis/blob/main/Done/Betting.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/betting) |
+| [Big Totoro](https://github.com/unrushed/Kattis/blob/main/Done/BigToroto.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bigtotoro) |
 | [Bijele](https://github.com/unrushed/Kattis/blob/main/Done/CorrectNumberOfPieces.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bijele) |
+| [Bikes and Barricades](https://github.com/unrushed/Kattis/blob/main/Done/BikeBarricades.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bikesandbarricades) |
 | [Bilað Lyklaborð](https://github.com/unrushed/Kattis/blob/main/Done/StickyKeys2.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/biladlyklabord) |
 | [Birthday Memorization](https://github.com/unrushed/Kattis/blob/main/Done/RememberBirthdays.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fodelsedagsmemorisering) |
 | [Bitte ein Bit](https://github.com/unrushed/Kattis/blob/main/Done/Bits.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bitteeinbit) |
@@ -73,10 +75,17 @@ PS: no one gets access to this repo, so enjoy & These are made in JAVA unless ot
 
 | C's Problem | :link: |
 |       -       |       -       |
+| [CPR Number](https://github.com/unrushed/Kattis/blob/main/Done/CPR.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cprnummer) |
+| [Call for Problems](https://github.com/unrushed/Kattis/blob/main/Done/CallForProblems.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/callforproblems) |
+| [Canadians, eh?](https://github.com/unrushed/Kattis/blob/main/Done/CanadianDetector.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/canadianseh) |
+| [Candy Store](https://github.com/unrushed/Kattis/blob/main/Done/CandyStore.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/candystore) |
+| []() | [![:cat:](https://open.kattis.com/favicon)]() |
+| []() | [![:cat:](https://open.kattis.com/favicon)]() |
 | [Character Development](https://github.com/unrushed/Kattis/blob/main/Done/Relationships.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/character) |
 | [Coffee Cup Combo](https://github.com/unrushed/Kattis/blob/main/Done/Coffee.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/coffeecupcombo) |
 | [Cryptographer's Conundrum](https://github.com/unrushed/Kattis/blob/main/Done/Per.java) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/conundrum) |
 | []() | [![:cat:](https://open.kattis.com/favicon)]() |
+
 
 | F's Problem | :link: |
 |       -       |       -       |
