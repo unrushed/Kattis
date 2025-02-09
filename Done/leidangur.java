@@ -1,4 +1,4 @@
-package Done;
+package src;
 
 import java.util.Scanner;
 import java.util.Stack;
@@ -11,7 +11,7 @@ public class leidangur {
 		Stack<Character> bag = new Stack<Character>();
 		
 		
-		String in = input.nextLine();
+		String in = input.nextLine(); //
 		boolean failed = false;
 		for(int u = 0; u < in.length() && !failed; u++) {
 			switch(in.charAt(u)) {
